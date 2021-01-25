@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.AssemblyInfo.cs
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\Animal.exe
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\Animal.deps.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\Animal.runtimeconfig.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\Animal.runtimeconfig.dev.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\Animal.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\ref\Animal.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\bin\Debug\net5.0\Animal.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\ref\Animal.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\Animal\obj\Debug\net5.0\Animal.genruntimeconfig.cache

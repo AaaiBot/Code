@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

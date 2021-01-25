@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\StaticMethod.exe
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\StaticMethod.deps.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\StaticMethod.runtimeconfig.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\StaticMethod.runtimeconfig.dev.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\StaticMethod.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\ref\StaticMethod.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\bin\Debug\net5.0\StaticMethod.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.AssemblyInfo.cs
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\ref\StaticMethod.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticMethod\obj\Debug\net5.0\StaticMethod.genruntimeconfig.cache

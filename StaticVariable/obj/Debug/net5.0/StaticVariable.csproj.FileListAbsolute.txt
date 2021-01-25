@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\StaticVariable.exe
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\StaticVariable.deps.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\StaticVariable.runtimeconfig.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\StaticVariable.runtimeconfig.dev.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\StaticVariable.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\ref\StaticVariable.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\bin\Debug\net5.0\StaticVariable.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.AssemblyInfo.cs
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\ref\StaticVariable.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\StaticVariable\obj\Debug\net5.0\StaticVariable.genruntimeconfig.cache

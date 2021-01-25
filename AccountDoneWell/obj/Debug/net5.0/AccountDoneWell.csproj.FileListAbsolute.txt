@@ -1,0 +1,16 @@
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.AssemblyInfo.cs
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\AccountDoneWell.exe
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\AccountDoneWell.deps.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\AccountDoneWell.runtimeconfig.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\AccountDoneWell.runtimeconfig.dev.json
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\AccountDoneWell.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\ref\AccountDoneWell.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\bin\Debug\net5.0\AccountDoneWell.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\ref\AccountDoneWell.dll
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.pdb
+C:\Users\richa\OneDrive\_Official\Surf Shifter Technologies\Clients\School of Code\Code\accountdonewell\obj\Debug\net5.0\AccountDoneWell.genruntimeconfig.cache
